@@ -1,0 +1,63 @@
+h1
+{
+    text-align: center;
+    
+}
+.form-group
+{
+background-color:aqua;
+border-style: solid;
+margin-top: 20px;
+}
+
+.amount
+{
+    margin-left: 10px;
+}
+.fyear
+{
+    margin-left: 10px;
+}
+.irate
+{
+    margin-left: 10px;
+
+}
+.amtrange
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.yrange
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.irange
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.form-control
+{
+    width: 30%;
+    margin-left: 20px;
+}
+.form-range{
+width:20%;
+}
+.result
+{
+   text-align: center;
+   margin-top: 10px;
+   font-size: 40px;
+}
+.text-center
+{
+    margin-top: 20px;
+}
+
+
