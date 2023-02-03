@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import'../node_modules/bootstrap/dist/css/bootstrap.css';
 import'../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import { Ui } from './emiui';
-import './index.css';
+
 
 import reportWebVitals from './reportWebVitals';
 
